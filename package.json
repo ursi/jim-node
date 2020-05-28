@@ -1,0 +1,23 @@
+{
+  "name": "jim-node",
+  "version": "0.1.0",
+  "description": "todo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ursi/jim-node.git"
+  },
+  "keywords": [
+    "jim",
+    "node"
+  ],
+  "author": "Mason Mackaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ursi/jim-node/issues"
+  },
+  "homepage": "https://github.com/ursi/jim-node#readme"
+}

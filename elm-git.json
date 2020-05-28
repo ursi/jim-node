@@ -1,0 +1,5 @@
+{
+    "git-dependencies": {
+        "https://github.com/ursi/jim.git": "0.1.4"
+    }
+}
